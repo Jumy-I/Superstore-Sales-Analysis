@@ -48,10 +48,10 @@ This seasonal pattern can inform marketing and inventory planning strategies.
 
 # Category Breakdown
 
-• **Technology** dominated with over ** $800k** in sales and highest profit of over **$140k**, proving its strategic value
+• **Technology** dominated with over **$800k** in sales and highest profit of over **$140k**, proving its strategic value
 •	**Office supplies** had moderate sales, but maintained consistent profit margins than Furniture.
 •	**Furniture**, despite high sales of over **$700k**, **yielded minimal profit of just $18k**, raising concerns about pricing or supplier costs.
-The company should reassess its Furniture category cost structure or discount strategy. Technology expansion could potentially yield an additional $30-$40k in annual profit given its strong margin performance.
+The company should reassess its Furniture category cost structure or discount strategy. Technology expansion could potentially yield an additional **$30-$40k** in annual profit given its strong margin performance.
 
 # Regional Performance
 
