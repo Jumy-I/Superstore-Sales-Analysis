@@ -48,31 +48,36 @@ This seasonal pattern can inform marketing and inventory planning strategies.
 
 # Category Breakdown
 
-•**	Technology** dominated with over** $800k** in sales and highest profit of over ** $140k**, proving its strategic value
+• **Technology** dominated with over ** $800k** in sales and highest profit of over **$140k**, proving its strategic value
 •	**Office supplies** had moderate sales, but maintained consistent profit margins than Furniture.
-•	**Furniture**, despite high sales of over** $700k**, **yielded minimal profit of just $18k**, raising concerns about pricing or supplier costs.
+•	**Furniture**, despite high sales of over **$700k**, **yielded minimal profit of just $18k**, raising concerns about pricing or supplier costs.
 The company should reassess its Furniture category cost structure or discount strategy. Technology expansion could potentially yield an additional $30-$40k in annual profit given its strong margin performance.
 
 # Regional Performance
 
 Sales were highest in the **West ($725k)** and **East ($678k)** regions.
 However, profit distribution reveals critical gaps:
-•**	West** and **East** generated strong profits, with West leading with the highest sales volume while East region showed balanced sales and profit performance.
+• **West** and **East** generated strong profits, with West leading with the highest sales volume while East region showed balanced sales and profit performance.
 •	**Central** and **South **region show significantly lower profit, especially Central region despite the fact that the total goods sold was higher than the South region, South generated more profits than the Central region. This suggests cost inefficiencies or weaker customer engagement.
 Strategic attention should be given to underperforming regions – either through targeted promotions, pricing review, or operational improvements.
 
 # Top 10 Product Sub-categories by Profit
 
 The most profitable sub-categories include;
-**•	Copiers (highest profit contributor)
-•	Phones
-•	Accessories**
+
+•	**Copiers (highest profit contributor)**
+
+•	**Phones**
+
+•	**Accessories**
+
 Lowest performers (e.g. **Furnishings and Envelopes**) made it into the top 10 but had minimal profit, indicating possible over-discounting or operational costs eating into margins.
 Refining the assortment and possibly delisting or renegotiating low-margin sub-categories could optimize profit.
 
 # Business Insights & Recommendations
 
 **Immediate Priority Actions**
+
 1.	**Focus on Technology:** Boost promotions and inventory around high-performing products like copiers and phones – potential **$30k+ annual** profit increase.
 2.	**Investigate Furniture Margins:** Audit cost structure, vendor terms and discounts to improve current margin.
 3.	**Central Region Operational Review:** Study why south region achieves better profit
