@@ -5,12 +5,21 @@ This project analyzes a fictional superstore's sales data from 2019-2022 using M
 Strategic insights across sales, profits & regional performance
 Tool Used: Microsoft Excel (Pivot Table & Dashboard)
 Role: Business Intelligence Analyst
+
 **Executive Summary**
 This project forcuses on analyzing the performance of a fictional retail company -Superstore- over a 4 year period (2019-2022). Using Microsoft Excel, i built Sales dashboard to uncover key patterns in sales, profit, product performance and regional trends. 
 The dashboard is designed for strategic decision-makers to quickly identify what’s working, what’s not and where to focus improvement efforts.
 
 **Data Sourrce**
 The dataset used in  this project is the popular fictional Superstore Sales dataset, commonly shared for data analysis practice. it was sourced from a public GitHub repository for educational and non-commercial use. All data is fictitious.
+
+**Data Preparation**
+Dataset contains 9,994 sales records from **2019-2022**
+Performed basic data-cleaning:
+  Dropped "Country" column (all values were United States)
+  Created new columns for: Month and Year. This enabled accurate time-based trend analysis using PivotTables
+  Verified and corected date formats to support monthly breakdowns
+Final cleaned dataset was used to build pivotTables and a structured Excel dashboard.
 
 **Dashboard**
 <img width="913" height="611" alt="Image" src="https://github.com/user-attachments/assets/e33505de-77fe-4031-84da-c4381f1df5f5" />
