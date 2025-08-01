@@ -22,6 +22,8 @@ Performed basic data-cleaning:
 Final cleaned dataset was used to build pivotTables and a structured Excel dashboard.
 
 **Dashboard**
+
+
 <img width="913" height="611" alt="Image" src="https://github.com/user-attachments/assets/e33505de-77fe-4031-84da-c4381f1df5f5" />
 
 **Key Performance Metrics**
@@ -77,6 +79,8 @@ Future analysis can be expanded using:
 
 **About Me**
 I'm a data enthusiast building strong foundations in excel,Power BI and SQL. This project reflects my growing ability to extrct insights and tell stories with data. I'm open to feedback, collaboration and mentorship from the data community!
+
+
 Let's Connect: https://www.linkedin.com/in/ajani-olajumoke-ibiwumi-3b282b25a
 
 
