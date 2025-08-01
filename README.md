@@ -11,7 +11,9 @@ The dashboard is designed for strategic decision-makers to quickly identify what
 
 **Data Sourrce**
 The dataset used in  this project is the popular fictional Superstore Sales dataset, commonly shared for data analysis practice. it was sourced from a public GitHub repository for educational and non-commercial use. All data is fictitious.
+
 **Dashboard**
+<img width="913" height="611" alt="Image" src="https://github.com/user-attachments/assets/e33505de-77fe-4031-84da-c4381f1df5f5" />
 
 **Key Performance Metrics**
 KPI	Value
